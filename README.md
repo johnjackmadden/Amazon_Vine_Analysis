@@ -6,7 +6,7 @@
 ### - More than 20 total votes
 ### - Percent of helpful votes > 50%
 ### This drastically reduced the total amount of data, leaving the most detailed and helpful reviews to give us the most accurate estimate for this study
-### ![image1.png](paid.png)
+### ![image1.png](paidpromo.png)
 ### ![image2.png](unpaid.png)
 ### The total number of paid reviews was less than 1% of the total data pool, but around 50% of the paid reviews were given 5 stars.
 ## Summary
